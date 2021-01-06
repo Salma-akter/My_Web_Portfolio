@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+body{
+     font-family: 'Bebas Neue', cursive;
+     margin: 0;
+}
+h1{
+   
+    font-size:80px;
+}
+.name_color{
+    color:rgb(129, 41, 8);
+
+}
+.greeting{
+    color:rgb(82, 100, 100);
+}
+/* .half-width{
+    width:4%;
+    height:5px;
+    float:left;
+    margin-left: 6%;
+    padding-left:2%
+} */
+
+.half-width {
+    width: 45%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 80%;
+   
+    
+}
+
+.half-width h1 {
+    line-height: 55px;
+}
+
+.half-width h3 {
+    padding-bottom: 20px;
+}
+.button {
+    padding: 10px 20px;
+    background: linear-gradient(180deg, blue, skyblue);
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+}
+section{
+    height:200px;
+    padding-bottom: 500px; 
+}
+
+h2{
+    padding-right: 200px;
+}
+
+.col-3 {
+    width: 33.33%;
+    float: left;
+    padding-left: 15px;
+}
+
+.col-3 img {
+    width: 100%;
+}
+
+.working-project h2 {
+    text-align: center;
+}
